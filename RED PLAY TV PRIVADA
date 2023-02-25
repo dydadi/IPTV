@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Su servício vence en 9 horas, 56 minutos!
-http://asd.com
-
+#EXTINF:-1, RED PLAY
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
 http://user.tvcluboficial.com/stream/free_DID_KCu/0CY/1.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="HD",A&E HD
