@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
+#EXTVLCOPT:http-user-agent=dfghdfghfghdfghdfg
+http://user.tvcluboficial.com/live/m/m/1.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E Sur
 #EXTVLCOPT:http-user-agent=dfghdfghfghdfghdfg
 http://user.tvcluboficial.com/live/m/m/474.m3u8
